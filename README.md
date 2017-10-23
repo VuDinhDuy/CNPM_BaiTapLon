@@ -8,6 +8,6 @@ Nhằm thu hút bạn đọc, đặc biệt là những bạn đọc trẻ tuổ
 4. Lồng ghép chuyên mục giải trí, thư giãn bên cạnh những chuyên mục tin tức;
 5. Thường xuyên có những bài đăng tuyển cộng tác viên để không chỉ giúp trang báo ngày càng phát triển hơn mà còn thu hút những bạn trẻ quan tâm và muốn tham gia.  
   
-Ngoài ra, trang báo hứa hẹn sẽ có thêm nhiều tính năng hơn nữa trong quá trình phát triển nhằm không ngừng phục vụ bạn đọc tốt hơn.  
+Theo ý kiến thống nhất, trang web sẽ được tạo dựa trên nền tảng Wordpress. 
   
 TUỔI TRẺ TƯƠNG LAI - VÌ TƯƠNG LAI CỦA TUỔI TRẺ - VÌ TUỔI TRẺ LÀ TƯƠNG LAI!
